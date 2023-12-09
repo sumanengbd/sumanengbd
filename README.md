@@ -1,5 +1,22 @@
 ### Hi, I am Suman Ali 👋
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow%20-146EF5?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2ViZmxvdzwvdGl0bGU+PHBhdGggZD0ibTI0IDQuNTE1LTcuNjU4IDE0Ljk3SDkuMTQ5bDMuMjA1LTYuMjA0aC0uMTQ0QzkuNTY2IDE2LjcxMyA1LjYyMSAxOC45NzMgMCAxOS40ODV2LTYuMTE4czMuNTk2LS4yMTMgNS43MS0yLjQzNUgwVjQuNTE1aDYuNDE3djUuMjc4bC4xNDQtLjAwMSAyLjYyMi01LjI3N2g0Ljg1NHY1LjI0NGguMTQ0bDIuNzItNS4yNDRIMjRaIiBmaWxsPSIjZmZmIi8+PC9zdmc+)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
 ### Numbers
 ![sumanengbd's Stats](https://github-readme-stats.vercel.app/api?username=sumanengbd&theme=transparent&show_icons=true&count_private=true&card_width=846)
 
