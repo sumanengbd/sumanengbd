@@ -1,16 +1,14 @@
 ### Hi, I am Suman Ali 👋
 
-<!--
-**sumanengbd/sumanengbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Numbers
+![sumanengbd's Stats](https://github-readme-stats.vercel.app/api?username=sumanengbd&theme=transparent&show_icons=true&count_private=true&card_width=846)
 
-Here are some ideas to get you started:
+![sumanengbd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanengbd&theme=transparent&card_width=846)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![sumanengbd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanengbd&theme=transparent&show_icons=true&card_width=846)
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanengbd/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sumanengbd)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suman.eng)
