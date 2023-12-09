@@ -1,5 +1,7 @@
 ### Hi, I am Suman Ali 👋
 
+With more than 8 years of expertise in Front-End Design and WordPress Development, I possess the skills necessary to effectively manage and execute a wide range of WordPress projects.
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
